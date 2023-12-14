@@ -1,0 +1,22 @@
+{
+   "employees": [
+	{
+		"id": "01",
+		"firstName": "Mark",
+		"lastName": "Grohman",		 
+		"department": "Teachers"
+	},
+	{
+		"id": "02",
+		"firstName": "Fred",
+		"lastName": "Morrison",
+		"department": "Volunteers"
+	},
+	{
+		"id": "04",
+		"firstName": "Evil",
+		"lastName": "Dogbert",
+		"department": "HR"
+	}
+   ]
+}
