@@ -5,8 +5,8 @@ import sys
 
 def import_employees_from_json_file(filename: str) -> dict:
     with open(filename) as f:
-        data = json.load(f)
-        return data
+        data: dict = json.load(f)        
+    return data
 
 
 def echo_employees(employees: dict) -> None:
